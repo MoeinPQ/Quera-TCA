@@ -1,0 +1,14 @@
+                           
+bebin azinja() {
+    /* => START DO NOT CHANGE THIS SECTION <= */
+    n = 5;
+    /* => END DO NOT CHANGE THIS SECTION <= */
+    // TODO
+    // Full Documentation: https://mr-hashemi.github.io/mr-hashemi/
+   bechap("*");
+   bechap("**");
+	bechap("***");
+bechap("****");
+bechap("*****");
+                           
+} 
